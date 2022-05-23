@@ -24,7 +24,9 @@ https://user-images.githubusercontent.com/59312728/169808408-c484e82d-89a6-4ab1-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Clone this repository to your local machine
 
-## `npm install` to install all the necessary packages
+## `npm install`
+
+Install all the necessary packages
 
 ## Available Scripts
 
