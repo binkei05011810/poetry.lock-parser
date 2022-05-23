@@ -27,12 +27,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 2. `npm install` to install all the necessary packages
 
-3. In the project directory, you can run: `npm start`
+3. `npm start` in the project directory to run the app in the development mode
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser
 
 
