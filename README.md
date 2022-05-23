@@ -11,15 +11,20 @@ This is a small application to parse your poetry.lock file and display a list of
 - The names of the reverse dependencies (packages that depend on the current package)
   All the dependencies clickable if they are installed and the user can navigate the package structure by clicking from package to package
 
+https://user-images.githubusercontent.com/59312728/169808408-c484e82d-89a6-4ab1-9dee-ab81a8034f68.mov
+
 ## This app use:
 
 - React
 - Redux Toolkit
 - Material UI
 
-# Getting Started with Create React App
+# Setup the app on local machine
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Clone this repository to your local machine
+
+## `npm install` to install all the necessary packages
 
 ## Available Scripts
 
