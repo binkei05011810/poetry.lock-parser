@@ -1,0 +1,24 @@
+.package-list-root {
+  .file-name {
+    font-family: 'Fira Code', monospace;
+    color: #607b96;
+    margin: 0 10px 0 20px;
+  }
+
+  .package-list-wrapper {
+    margin-top: 20px;
+  }
+
+  .error-message-wrapper {
+    p {
+      font-size: 16px;
+      font-family: 'Fira Code', monospace;
+      color: #607b96;
+      margin-bottom: 30px;
+    }
+
+    .svg-wrapper {
+      width: 40%;
+    }
+  }
+}

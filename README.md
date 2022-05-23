@@ -1,3 +1,22 @@
+# poetry.lock parser
+
+Some Python projects use Poetry to manage dependencies. Poetry uses a file called poetry.lock to record which packages a project needs and which dependencies those packages have. [Here](https://github.com/python-poetry/poetry/blob/70e8e8ed1da8c15041c3054603088fce59e05829/poetry.lock) is an example of such a file.
+
+This is a small application to parse your poetry.lock file and display a list of packages. You can click on each package to view detail information:
+
+- Name
+- Description
+- The names of the required dependencies
+- The names of the optional dependencies
+- The names of the reverse dependencies (packages that depend on the current package)
+  All the dependencies clickable if they are installed and the user can navigate the package structure by clicking from package to package
+
+## This app use:
+
+- React
+- Redux Toolkit
+- Material UI
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
